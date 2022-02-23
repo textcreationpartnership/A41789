@@ -1,0 +1,402 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seventh day-Sabbath ceased as ceremonial and yet the morality of the fourth command remaineth, or, Seven reasons tending to prove that the fourth command in the Decalogue is of a different nature from the other nine ... also certain answers to some of the said reasons proved insufficient : whereunto is added a postscript, shewing the judgement of the Jews and antient Christians, touching the Sabbath-day / by Tho. Grantham.</title>
+            <author>Grantham, Thomas, 1634-1692.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 55 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41789</idno>
+            <idno type="STC">Wing G1547</idno>
+            <idno type="STC">ESTC R18492</idno>
+            <idno type="EEBO-CITATION">12660430</idno>
+            <idno type="OCLC">ocm 12660430</idno>
+            <idno type="VID">65437</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65437)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 355:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seventh day-Sabbath ceased as ceremonial and yet the morality of the fourth command remaineth, or, Seven reasons tending to prove that the fourth command in the Decalogue is of a different nature from the other nine ... also certain answers to some of the said reasons proved insufficient : whereunto is added a postscript, shewing the judgement of the Jews and antient Christians, touching the Sabbath-day / by Tho. Grantham.</title>
+                  <author>Grantham, Thomas, 1634-1692.</author>
+               </titleStmt>
+               <extent>[6], 17, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65437:1"/>
+            <p>THE Seventh-day-Sabbath Ceaſed as Ceremonial, AND YET The Morality of the fourth COMMAND Remaineth: OR, Seven Reaſons tending to prove, that the fourth COMMAND in the Decalogue is of a diffe<g ref="char:EOLhyphen"/>rent nature from the other nine.</p>
+            <p>Being partly Moral, and ſo it obligeth all men; partly Ceremonial, and ſo 'tis done away by Chriſt.</p>
+            <p>Alſo certain Anſwers to ſome of the ſaid Reaſons, proved inſufficient.</p>
+            <p>WHEREUNTO Is added a Poſtſcript, ſhewing the Judgement of the <hi>Jews</hi> and Antient Chriſtians, touching the SABBATH-DAY.</p>
+            <p>By <hi>Tho. Grantham.</hi>
+            </p>
+            <q>
+               <bibl>Gal. 4. 10, 11.</bibl> 
+               <p>
+                  <hi>Yee obſerve daies, and months, and times, and years. I am afraid of you, leſt I have beſtowed upon you labour in vain.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Gal. 2. 4, 5.</bibl> 
+               <p>
+                  <hi>And that becauſe of falſe brethren unawares brought in, who came in privily to ſpy out our liberty which we have in Chriſt Jeſus, that they might bring us into bondage. To whom we gave place by ſubjection, no not for an hour, that the truth of the Goſpel might continue with you.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Authour. 1667.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:65437:2"/>
+            <pb facs="tcp:65437:2" rendition="simple:additions"/>
+            <head>
+               <hi>To the Church of</hi> Jeſus Chriſt, <hi>built upon the Foundation of the Apoſtles and Prophets, of which</hi> Jeſus Chriſt <hi>is the chief corner Stone. Salutation.</hi>
+            </head>
+            <opener>
+               <salute>Chriſtian Brethren,</salute>
+            </opener>
+            <p>HAving (by Providence) this occaſion put into my hand, I am deſirous to make uſe of it, thereby to impart a word or two, if ſo I may be uſeful to you, in recommending to your thoughts, theſe ſhort Labours of my Compa<g ref="char:EOLhyphen"/>nion in the Work of Chriſt. The work (I ſay) is ſhort, yet ſurely it contains much of matter in it, wherein (if you be ſtudious) you may finde occa<g ref="char:EOLhyphen"/>ſion greatly to enlarge. It is true, he hat<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not medled ſo much with the particular Controverſies denpeding, as with the ſearching into the Baſis, or Root of the Matter; wherein (I hope) he hath performed the part of a ſerious and profitable Chriſtian.</p>
+            <p>If it ſhould ſo fall out, that in Reading theſe ſeven Grounds or Reaſons, ſome of them ſhould not ſeem ſo clear as you could wiſh; yet know, that if any one of them be undeniable, it is ſufficient; for truth ſtandeth not ſo much in the multitude, as in the clearneſs of the Proofes alledged.</p>
+            <p>
+               <pb facs="tcp:65437:3"/>
+This I ſpeak not, as being doubtful of the ſound<g ref="char:EOLhyphen"/>neſs of any of the Grounds propoſed (being fairly conſidered) but to prevent an evil, which is in<g ref="char:EOLhyphen"/>cident to many, which is, to reject a work alto<g ref="char:EOLhyphen"/>gether becauſe ſome part may ſeem to be dubious.</p>
+            <p>Among other things contained in this Book, there is one thing eſpecially to be obſerved, and that is, thoſe three things left at liberty under Chriſt in the Goſpel, which were limited under <hi>Moſe</hi>'s Law; namely, time, place, and coſt, for the Worſhip of God: It is a point (if well heeded) which may conduce much to the rectifying Chri<g ref="char:EOLhyphen"/>ſtians in this weighty controverſie about the Sabbath. Again, obſerve well the diſtinction noted, concerning ſome Laws, how the preceptive part may remain, and yet the penal part chang<g ref="char:EOLhyphen"/>ed: The want of heeding this, ſeems to have run ſome men into great extreams at this day. Fur<g ref="char:EOLhyphen"/>thermore, I pray conſider the deſign of this Diſ<g ref="char:EOLhyphen"/>courſe, it is to help you to keep your ſelves, in the enjoyment of Goſpel Liberty, and from the bon<g ref="char:EOLhyphen"/>dage of the Law, whither we ſee too many incli<g ref="char:EOLhyphen"/>ning; as if having begun in the Spirit, they now ſeek to be made perfect in the Fleſh. Brethren, it is a good thing that our hearts bee eſtabliſhed with Grace (to wit the Gospel) &amp; not with meats <note place="margin">brews 13.</note>
+               <pb facs="tcp:65437:3"/>
+(to wit the Law) which hath not profited them that have been exerciſed therewith. You ſee grace is propoſed, as that which is proper for the eſta<g ref="char:EOLhyphen"/>bliſhment of the heart; and that kinde of ſtability was never more needful than now, becauſe nothing ſeems now remaining to fix upon, if this be neg<g ref="char:EOLhyphen"/>lected; for all things ſeem to reel to and fro like a Drunkard, as if all thoſe things which muſt be ſhaken were even at their period. Wherefore Bre<g ref="char:EOLhyphen"/>thren let us have Grace, <hi>&amp;c.</hi> ſo ſhall wee have Faith, and receive a Kingdome which cannot be moved, <hi>&amp;c.</hi>
+            </p>
+            <p>Beloved, be exhorted, to beware of thoſe (and that Doctrine) that leadeth into bondage, for theſe daies are perilous in that reſpect. And howſoever many may be led on in their ſimplicity, having great zeal to Godward, <hi>Rom. 10. 2.</hi> yet <note place="margin">See a Paper called the Counterfeit <hi>Jew.</hi>
+               </note> how do I fear that ſome of the great Maſters of our late <hi>Judaizers</hi> have been no other than the ap<g ref="char:EOLhyphen"/>pointed ſervants of her, whoſe deſign is to infa<g ref="char:EOLhyphen"/>tuate by Sophiſtical devices, thoſe whom ſhe could not turn from the right way, by her more groſs and ſuperſtitious devices: For can wee think, that the ſeveral late exorbitant errours, have not had ſome deputed by ſubtilty to project and ſet them on broach? it is not credible.</p>
+            <p>
+               <pb facs="tcp:65437:4"/>
+Let your eyes (therefore) bee ever beholding the grace that is in Chriſt Jeſus, by which you will be kept free from the yoke of bondage, as well as from the phantaſtical conceits of our late En<g ref="char:EOLhyphen"/>thuſiaſts: and in the beholding whereof, alwaies remember, that this grace is accompanied with a denying all ungodlineſs and worldly luſts, and with a ſober, godly, and righteous life in this pre<g ref="char:EOLhyphen"/>ſent world; and let not this your greateſt good, be evil ſpoken of by any miſ-uſe of your Liberty, which you have by the Goſpel; but ever let the ſound of theſe words be in your ears. Brethren, you are called unto Liberty, only uſe not your Li<g ref="char:EOLhyphen"/>berty as an occaſion to the Fleſh.</p>
+            <p>Brethren, the God of all Grace, fill you with Grace and Peace in believing, is the humble ſupplication of</p>
+            <closer>
+               <signed>Your unworthy<lb/>
+Brother,<lb/>
+                  <hi>John Lupton.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:65437:4"/>
+            <head>THE Seventh-day-Sabbath Ceaſed a Ceremonial, AND YET The Morality of the Fourth COMMAND Remaineth.</head>
+            <argument>
+               <head>The POSITION.</head>
+               <p>The Fourth Command in the Decalogue is partly Moral, and ſo conſidered, it is binding to all; and partly Cere<g ref="char:EOLhyphen"/>monial, and ſo conſidered, it is done away by Chriſt.</p>
+            </argument>
+            <p>I Little thought that my Reaſons for non-obſervation of the Seventh-day (as 'tis now obſerved by many) ſhould have been divulged in Writing, till my ſelf had done it; but ſith the impatience of ſome could not ſtay my leaſure, but with<g ref="char:EOLhyphen"/>out my knowledge or advice hath ſpread them abroad, I am thereupon occaſioned to appear at this time, partly to correct, and partly to amplifie the Reaſons, which under the Characters of <hi>T. G.</hi> are aſcribed to me.</p>
+            <p>Firſt therefore, I hold it meet to demonſtrate the Poſitio<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, wherein I ſay the Fourth Command, <hi>Exod<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s</hi> 
+               <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is part<g ref="char:EOLhyphen"/>ly Moral, <hi>&amp;c.</hi> This Motality whereof I ſpeak, lyeth in this, <hi>
+                  <gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>c.</hi> That God the Creatour of all men, hath put a law in mans heart, by which he underſtandeth, that part of the time he is al<g ref="char:EOLhyphen"/>lowed
+<pb n="2" facs="tcp:65437:5"/>
+to live upon the Earth, is to be ſet apart for the ſervice of his Creatour, and not all to be ſpent in doing his own work; a time of repoſe he alſo knoweth by the ſame Law to be neceſſary, as well for his Servants and Cattle as for Himſelf; and this alſo the fourth Command in the Decalogue doth teach us.</p>
+            <p>But now if the Queſtion be, How much of his time man muſt ſet apart to ſerve and worſhip the Lord his Creatour, and for the repoſe of his Servants and Cattle? The Anſwer will be according to the Letter of the fourth Precept only, <hi>the Seventh day of every week;</hi> but in the Moral conſideration, it will be, <hi>ſo much time as is ſufficient to anſwer theſe ends,</hi> which as things may, &amp; often do fall out, may require more than ſeven daies time toge<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, notwith<g ref="char:EOLhyphen"/>ſtanding the Letter of the fourth Precept, which ſaith, <hi>ſix daies ſhalt thou labour, or ſix daies may work be done.</hi> And this is the ſenſe wherein I take the fourth Command in the Decalogue to be Mo<g ref="char:EOLhyphen"/>ral, and under this conſideration I ſay it obligeth univerſally, I mean, it bindeth <hi>all men in all times and places,</hi> to ſet ſufficient time apart to worſhip their Creatour, and to give their Ser<g ref="char:EOLhyphen"/>vants and Cattle convenient reſt, and this the light of Reaſon, or Law of Nature doth clearly teach; and hence our Apoſtle might well ſay, <hi>the Gentiles having not the Law, do by nature the things contained in the Law;</hi> ſith all Nations (ſo far as I ever yet <note place="margin">Rom. 2.</note> heard) do reſerve a competent time for his Worſhip, whom they acknowledge for their God.</p>
+            <p>But whereas the fourth Command doth preciſely limit a cer<g ref="char:EOLhyphen"/>tain point of time <hi>(viz.)</hi> the ſeventh day of every week, not requi<g ref="char:EOLhyphen"/>ring more or leſs: In this reſpect, I ſay, the fourth Command in the Decalogue is Ceremonial, and done away by Chriſt, Done away I ſay, as it was part of the yoke of bondage, as alſo other things of like nature were; for example, the place of worſhip, which in many reſpects was only the Temple at <hi>Jeruſalem;</hi> neither of which are ſo done away, as to deſtroy either time or place for ſerving the Lord; but rather, ſo, as that all times, and all places are ſo far ſanctified unto us by Chriſt, as that we may in every place, and at all times, ſerve him with as great acceptation, as if we were <hi>in the Temple of</hi> Jeruſalem <hi>on the SABBATH DAY.</hi>
+            </p>
+            <p>Be it farther conſidered, that the relief of the poor, and the
+<pb n="3" facs="tcp:65437:5"/>
+maintenance of ſuch as are Miniſters of Gods Word, do apper<g ref="char:EOLhyphen"/>tain to Moral duty, being grounded upon the Law of right rea<g ref="char:EOLhyphen"/>ſon, <hi>Do to others as you would be done to.</hi> Thou ſhalt not muzzle <note place="margin">Mat. 7. 12. 1 Cor. 9. 9, 10</note> 
+               <hi>the mouth of the Oxe which treadeth out the Corn,</hi> &amp;c. Now ſaith <hi>Paul, for our ſakes no doubt this is written;</hi> that is, for the ſake, or in the behalf of the Miniſters of Chriſt. But now if the Que<g ref="char:EOLhyphen"/>ſtion be, <hi>What is the portion of the poor and ſuch as Miniſter the Word?</hi> The Anſwer will be according to <hi>Moſes</hi>'s Law, The tenth part of the increaſe of thy Land, muſt be ſet apart for that purpoſe, <hi>[yea before</hi> Moſes, <hi>it is evident that Tythes were paid, but before</hi> Moſes <hi>no man can be aſſigned that ever kept the Sab<g ref="char:EOLhyphen"/>bath.]</hi> But in Moral conſideration, the Anſwer to the Queſtion will be this, So much as is neceſſary ought to be ſet apart for the poor, and for ſuch as Miniſter the Word. So then it is clear, that <hi>ſome part of our time, ſome part of our ſubſtance,</hi> and <hi>ſome place</hi> muſt be ſet apart for the Worſhip of God, <hi>&amp;c.</hi> And what part that muſt be, either Chriſt and right reaſon, or the Law of <hi>Moſes</hi> muſt inform us; If <hi>Moſes</hi>'s Law, then the <hi>Seventh day</hi> of every week, the <hi>Temple at Jeruſalem,</hi> and <hi>Tythes</hi> muſt be aſ<g ref="char:EOLhyphen"/>ſigned: But if Chriſt and right reaſon, then the time is, <hi>whenſo<g ref="char:EOLhyphen"/>ever you can;</hi> the place is, <hi>whereſoever you can;</hi> and for ſubſtance, <hi>what you can, or what is neceſſary.</hi>
+            </p>
+            <p>The two laſt (I ſuppoſe) will not be denyed, and for the firſt it m<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y thus appear; <hi>The Lords Supper</hi> is ordained as a ſtand<g ref="char:EOLhyphen"/>ing Ordinance in the Church of Chriſt, as the <hi>Paſſeover</hi> was in the Church under <hi>Moſes;</hi> but yet there is no ſet time aſſigned by Chriſt for its Celebration, as we know there was for the Cele<g ref="char:EOLhyphen"/>bration of the <hi>Paſſeover.</hi> Again, the Church under <hi>Moſes</hi> were commanded to offer many <hi>Sacrifices</hi> to the Lord, and had their their reſpective times limited wherein to do it. Chriſtians are bound to offer to the Lord <hi>ſpiritual Sacrifices, even the fruits of</hi> 
+               <note place="margin">Heb.</note> 
+               <hi>their lips, giving thanks to his name,</hi> but this without the limita<g ref="char:EOLhyphen"/>tion of time, having rather this general rule in that caſe, name<g ref="char:EOLhyphen"/>ly, to do it continually, that is, as often as we can. Further<g ref="char:EOLhyphen"/>more, the work of exhortation is a ſtanding Ordinance in Chriſts Church, but not limited to any ſet time, but rather to be per<g ref="char:EOLhyphen"/>formed <hi>daily,</hi> that it to ſay, as frequently as we can. And hence we may perceive a very great difference as to the liberty of time <note place="margin">He<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>
+               <pb n="4" facs="tcp:65437:6"/>
+in things pertaining to God, between the Law of bondage and the Goſpel of Chriſt; for, certainly the work of Chriſtian <hi>exhorta<g ref="char:EOLhyphen"/>tion, praiſing the Lord,</hi> and the <hi>celebration of his divine Supper,</hi> doth as it were comprize the whole body of Chriſtian Worſhip (as it conſiſts in Practicals) and anſwers to that which comprized the body of Legal worſhip, but with this remarkable difference, the one is left free as to the circumſtance of time, while the other was tyed to their ſtrict points of time, under which conſiderati<g ref="char:EOLhyphen"/>on we have cauſe to ſay (as the Apoſtle ſaid) of ſome (who went from Chriſt to <hi>Moſes) yee obſerve dayes, and moneths, and times, and yeares; I am afraid of you,</hi> &amp;c. Among which days I have no doubt the <hi>Jews</hi> Sabbath-day was included, and that becauſe it was of a ceremonial conſideration, and ſo done away by Chriſt; and that it was of ſuch a conſideration, I ſhall en<g ref="char:EOLhyphen"/>deavour to demonſtrate by the grounds which here enſueth.</p>
+            <div n="1" type="reason">
+               <head>The firſt Reaſon.</head>
+               <p>Becauſe nothing which is really moral is impoſſible, but upon due conſideration it will be found impoſſible for the whole Uni<g ref="char:EOLhyphen"/>verſe, <hi>i e.</hi> all mankind (with their Cattel) to obſerve one cer<g ref="char:EOLhyphen"/>tain point of time to reſt from labour, <hi>&amp;c.</hi> becauſe the bounds of their habitations hath made the time ſo far various, as the time of mid-night, is the time of mid-day in their reſpective Regions where they live: ſo that unavoidably, one part of the world will be found in the dead of the night, aſleep on their beds, when the other in the heat of the day, are in devotion to the Lord.</p>
+               <p>But that which makes this matter the more conſiderable, is the great diverſity of time which happens to thoſe, who live in the <note n="*" place="margin">I ſpeak not here of the ut<g ref="char:EOLunhyphen"/>moſt South and North, but the moſt remote ha<g ref="char:EOLhyphen"/>bitable parts of the World.</note> far Southern and Northern parts of the world, a day in theſe places, being as long as many of ours: ſo that to enjoin a Sab<g ref="char:EOLhyphen"/>bath-ſo emnity in thoſe places, would prove a ſtrange under<g ref="char:EOLhyphen"/>t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king, and would not anſwer the Morality of the fourth Com<g ref="char:EOLhyphen"/>m<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd, which undoubredly requires a ſufficient time of reſt for man and beaſt, and that his Name may be ſanctiſied by all men in the celebration of his Ordinances.</p>
+               <p>The ſubſtance of <hi>S. J.</hi> his Anſwer to this Reaſon is this:
+<pb n="5" facs="tcp:65437:6"/>
+If the Inhabitants of theſe remote places do obſerve the ſea<g ref="char:EOLhyphen"/>venth-day conſiſting of Evening and Morning, it will anſwer the intent of God in the fourth Precept, as to the letter of it.</p>
+               <p>To which I reply, Then it is clear, that it was not Gods intent to bind all men to one point of time in Sabbath-ſolemnities, which I deſire may be well obſerved, and how the preciſe point of time the ſeventh-day can then be Moral, I cannot conceive.</p>
+               <p>Secondly, Let it be obſerved, that it will follow from <hi>S. J.</hi> his Anſwer, that theſe remote Inhabitants may lawfully work for many of our Sabbath-day-evening, for ſix dayes of theirs, counting from Evening to Morning, will contain a good part of ſix of our weeks, all which time they keeping no Sabbath, will badly anſwer the intent of God in the fourth Precept; and their Servants and Cattel would ſoon complain againſt them.</p>
+            </div>
+            <div n="2" type="reason">
+               <head>The ſecond Reaſon.</head>
+               <p>Precepts which are purely Moral give not place to Precepts Ceremonial, but when two ſuch Laws come in Competition, that which is Ceremonial gives place to that which is Moral: <hi>Go ye and learn what this meaneth, I will have mercy and not ſacrifice.</hi>
+               </p>
+               <p>But it is evident that the Seaventh-days-ſabbath frequently gave place to Ceremonial Laws, <hi>John</hi> 7. 22, 23.<hi>—Ye on the Sab<g ref="char:EOLhyphen"/>bath-day circumciſe a man,</hi> &amp;c. <hi>that the Law of</hi> Moſes <hi>ſhould not be broken;</hi> Here the Law of Circumciſion takes place in point of obſervation before the Sabbath; for, Circumciſion did not only prevent the <hi>Circumciſers</hi> from reſting, but the <hi>circumciſed</hi> were eſpecially in capacitated to ſabbathize, and thus the Law of the Sabbath was <hi>broken</hi> (if I may ſo ſpeak, as doubtleſs I may) by the interpoſition of a Ceremonial Law.</p>
+               <p>To this inſtance we will join another, <hi>Mat.</hi> 12. 5. 6, 7. where it is plainly ſaid, that the Sabbath was <hi>profaned,</hi> or <hi>broken,</hi> and that in the Temple at <hi>Jeruſalem,</hi> and yet the profaners thereof were blameleſs, becauſe their prophanation lay in the obſerva<g ref="char:EOLhyphen"/>tion of certain ceremonies of <hi>Moſes</hi> Law, as killing and dreſſing of beaſts and ſheep too, be offered for ſacrifices on that day; and not only for the Sabbath-day, which was done continually, but alſo for the yearly Sabbaths or Feſtivities if they fell on the Sab<g ref="char:EOLhyphen"/>bath
+<pb n="6" facs="tcp:65437:7"/>
+day, as they often did; in which caſes there was (as I take it) ſeaven times as much labour in killing and dreſſing beaſts for ſacrifices on ſuch ſolemnities, as on the weekly Sabbath. See <hi>Num.</hi> 28. 29. Chapters.</p>
+               <p>It is in any wiſe to be ſeriouſly conſidered, how clearly our Saviour doth rank the Sabbath with Laws ceremonial, ſeeing all the inſtances which he brings to vindicate his Diſciples, are in<g ref="char:EOLhyphen"/>ſtances out of the Ceremonial Law. For, when his Diſciples were found fault with for rubbing the eares of Corn, <hi>&amp;c.</hi> on the Sabbath-day, Chriſt defends them by alledging <hi>David,</hi> who in a like hungty condition, broke the Ceremonial Law of <hi>Shewbread;</hi> and the argument ſeems to conclude thus, If <hi>David</hi> being hun<g ref="char:EOLhyphen"/>gry, might without blame do contrary to the ceremonial Law of <hi>Shew-bread,</hi> then my Diſciples being alſo hungry, may without blame do contrary to the ceremonial Law of the Sabbath. And certainly, if the argument lye not here a worſe thing will fol<g ref="char:EOLhyphen"/>low, for then our Saviour brought an inſtance very unſuitable and ſuch as will be dangerous, as will be diſcerned if it be con<g ref="char:EOLhyphen"/>ſidered, that it is no reaſoning from Gods diſpenſing with a ce<g ref="char:EOLhyphen"/>remonial Law, to his diſpenſing with a moral Law, for then one may reaſon thus: God diſpenſed with <hi>David</hi> breaking his Law concerning <hi>Shew-bread,</hi> in a caſe of neceſſity, therefore he will diſpence with another in worſhipping a falſe God, if he be ne<g ref="char:EOLhyphen"/>ceſſitated, which God forbid.</p>
+               <p>So then, it is plain, that our Saviour compared the Sabbath with the law Ceremonial, which is yet more evident by the next inſtance of the Prieſts prophaning, the Sabbath (to which I have ſpoken) as alſo from the concluſion he makes upon the whole matter in theſe words, <hi>Go ye and learn what this mean<g ref="char:EOLhyphen"/>eth, I will have mercy and not ſacrifice;</hi> where it is evident the word <hi>Mercy,</hi> hath relation to Moral duty, and is apply'd to the Diſciples preſervation from hunger; and the word <hi>Sacrifice,</hi> hath relation to the Ceremonial Law, and is applyed to the Sabbath-day.</p>
+               <p>The ſubſtance of <hi>S. J.</hi> his anſwer to this Reaſon is this: That the ſixth Precept which is Moral, gave place to a Command of God, which was Typical, and a Figure in it ſelf to <hi>Abraham</hi> in offering up his ſon <hi>Iſaac.</hi>
+               </p>
+               <p>
+                  <pb n="7" facs="tcp:65437:7"/>
+To which I reply, It is very ſtrange that men do not conſi<g ref="char:EOLhyphen"/>der before they ſpeak againſt evident truth! Can <hi>S. J.</hi> believe that all manner of killing is forbidden in theſe words, <hi>Thou ſhalt not kill:</hi> if ſo, what will become of the penal part of his Sab<g ref="char:EOLhyphen"/>bath-Principle, which tells us, that ſuch as break the Sabbath wilfully muſt be put to Death. It hath hitherto been the re<g ref="char:EOLhyphen"/>ceived Expoſition of this Precept, that Homicide and Murther, whether in deſire or fact, is the killing which in this Command is prohibited. It doth not then, nor never did, prohibit man for killing any man, in that way, and upon that account, for which God commands him ſo to do, <hi>viz.</hi> either in executing juſtice, or in offering to God a ſacrifice; and therefore no man well ad<g ref="char:EOLhyphen"/>viſed will ſay, that the ſixt Command was broken (for ſuch a giving place the Reaſon intendeth) when <hi>Abraham</hi> offered his ſon <hi>Iſaac;</hi> but I have ſhewed, that what was done on the Sab<g ref="char:EOLhyphen"/>bath by the Prieſts was a breach, or prophanation of the Sab<g ref="char:EOLhyphen"/>bath, and yet the prophaners blameleſs, only becauſe they kept the Ceremonial Law unbroken.</p>
+               <p>I do offer this further in this place; that our Saviour did not juſtifie the fact of his Diſciples to be a lawful fact in it ſelf, but rather ſeems to grant it to be unlawful, as to the law of the Sab<g ref="char:EOLhyphen"/>bath, as indeed it was; for it was not lawful to prepare meat, or dreſs it for eating on that day, as appears, <hi>Exod.</hi> 16. 23. Now their plucking the ears of Corn, and rubbing them in their hands, was a preparing or dreſſing of it for their eating it. Wherefore when the Phariſees told our Saviour his Diſciples did that which was not lawful to be done, he did not (I ſay) vindicate the fact to be lawful, but rather grants it to be unlawful, by alledging a fact for its defence as unlawful as it ſelf. From whence I further infer, the ceremonial nature of the Sabbath-day, be<g ref="char:EOLhyphen"/>cauſe I ſee not how any Moral Precept could be broken by ſuch a fact: nay, the fact is defended by the conſideration of Moral Duty.</p>
+            </div>
+            <div n="3" type="reason">
+               <head>The third Reaſon.</head>
+               <p>All Commands purely Moral, are indiſpenſible in caſes of Neceſſity: it is better to dye for hunger, than to deny the true God to obtain meat to preſerve Life; yea, he that ſhould ſo ſave
+<pb n="8" facs="tcp:65437:8"/>
+his life, ſhould loſe it; Nor may I commit Murther, Adultery, or bear falſe witneſſe againſt my Neighbour to preſerve my own life, for I know no neceſſity that can make my ſo doing in any wiſe diſpenſible.</p>
+               <p>But behold, the Sabbath-day is ſuch in its obſervation, as it hath been frequently diſpenſed with in very low caſes of Neceſſity, inſomuch that the ſaving the life of a beaſt, is preferred before its obſervation, <hi>as to the point, of time the ſeaventh-day;</hi> and then much more in caſes of neceſſity which concern the life of a man, inſomuch, that I conceive, <hi>there was never yet a Sabbath-day, but it was broken,</hi> and that by <hi>lawful</hi> caſes of <hi>neceſſity,</hi> I ſay, <hi>Lawful caſes,</hi> (conſidering the caſes ſtill by the Moral Law): notwith<g ref="char:EOLhyphen"/>ſtanding the Law of the Sabbath (in the ceremony thereof) to the contrary.</p>
+               <p>No man that reads the Scriptures, can lightly be ignorant, how much our Saviour inſiſteth upon caſes of <hi>Neceſſity,</hi> as ſufficient Anſwers to thoſe, whoever carped at his doings on the Sabbath-day; whoſe concluſion was, that he was not of God becauſe he kept not the Sabbath. And certainly, if we conſider the fourth Precept, according to the letter of that Law, our Saviour both did, and commanded to be done; ſome things utterly inconſi<g ref="char:EOLhyphen"/>ſtent with the ſabbathical obſervation of the ſeaventh-day, as appears by comparing <hi>Jer.</hi> 17. 22. with <hi>John</hi> 5. 8. 9, 10, 11, 12. <hi>John</hi> 9. 14. Hence it is plain, that our Saviour went further then caſes of neceſſity in the non-obſervation of the Sabbath, ſith there was no neceſſity for the Lame to carry his bed on the ſabbath-day; nor yet for our Saviour to make Clay on the Sabbath, ſith he frequently wrought Cures by the words of his lips, and could have done it on the Sabbath, as well as at other times; I con<g ref="char:EOLhyphen"/>ceive therfore it was his pleaſure to do thus on the Sabbath-days, that he might hereby give ſome intimation of the abrogation of the Sabbath, as he did the like concerning other ceremonial ob<g ref="char:EOLhyphen"/>ſervations: for Example, <hi>his eating with Publicans and ſinners;</hi> as alſo his taking perſons off from their eſteem of the ſanctity of <hi>one place above another:</hi> thereby fore-ſhewing that he would take <note place="margin">John 4.</note> away that ſanctity which had been aſcribed to the Jewiſh Nation above the Gentiles; and to <hi>Joruſalem</hi> above <hi>Samaria,</hi> and then why not the ſame kind of ſanctity aſcribed to one day above a<g ref="char:EOLhyphen"/>nother?
+<pb n="9" facs="tcp:65437:8"/>
+I ſay, the <hi>ſame kind</hi> of ſanctity; for certainly, the ſeaventh-day hath no real ſanctity in it above any other day, no more than the Jewiſh Nation had above any other Nations, or the City <hi>Jeruſalem</hi> above <hi>Samaria;</hi> the holineſſe in all theſe, being only Ceremonial. Of this Reaſon <hi>S. J.</hi> takes no no<g ref="char:EOLhyphen"/>tice: therefore I proceed to the next.</p>
+            </div>
+            <div n="4" type="reason">
+               <head>The fourth Reaſon.</head>
+               <p>Thus ſaith the Lord to the Chriſtian Church, <hi>Let no man judge you in meat or in drink, or in reſpect of an holy-day, or the new</hi> 
+                  <note place="margin">Col. 2. 16.</note> 
+                  <hi>Moons, or of the Sabbath-dayes, which are a ſhadow of good things to come, but the body is of Chriſt.</hi> From theſe words it ap<g ref="char:EOLhyphen"/>pears, that, not only the holy dayes, yeatly to be obſerved by the <hi>Jews</hi> (which are confeſt on all hands to be Ceremonial) but alſo the <hi>Sabbath dayes</hi> 
+                  <note n="*" place="margin">It is a poor ſhift to except againſt the ſup<g ref="char:EOLhyphen"/>plement (days) in <hi>Col.</hi> 2. 16. Sith in other Texts, the like ſupplements are allowed, but if the ſupple<g ref="char:EOLhyphen"/>ment were o<g ref="char:EOLhyphen"/>mitted, yet the word <hi>Sabbath,</hi> is comprehen<g ref="char:EOLhyphen"/>ſive enough.</note> themſelves were with the reſt to paſs away, as a ſhadow when Chriſt the Body was come: which will yet more fully appear by <hi>Hebr.</hi> 4. from the 3d. <hi>verſe</hi> to the 12. where it is evident, that the ſeaventh-day-ſabbath is reckoned among other legal Types: for here <hi>Iſraels</hi> Reſt in <hi>Ca<g ref="char:EOLhyphen"/>naan,</hi> and the ſeaventh-dayes Reſt are both made Typical of our entring into reſt by faith in Chriſt; wherefore let all that are entred into reſt by faith in him, take heed how they ſtand upon this ſabbathical ſhadow, leaſt they know not how to a<g ref="char:EOLhyphen"/>void other things, which (though Legal ſhadows) will claim a place with it.</p>
+               <p>The ſubſtance of <hi>S. J.</hi> his Anſwer to this Reaſon is this: If the Seaventh-day, which is the pillar of the fourth Precept, be one of theſe ſhadows mentioned. <hi>Col.</hi> 2. 16. how can the fourth Com<g ref="char:EOLhyphen"/>mand be Moral, as is granted by the Author of the Reaſons.</p>
+               <p>I Reply, Firſt, it is worth obſerving how the circumſtance of time is made the Pillar of the Precept, which may ſo many ways be diſpenſed with, as hath been ſhewed. But muſt wee think the pillar of a Moral Precept muſt give place to the the preſer<g ref="char:EOLhyphen"/>vation of an Oxe or an Aſſe? Not ſo, for I ſhewed before, that other moral Laws admit not of ſuch Diſpenſations, in nocaſe of Neceſſity, for a mans own preſervation. And how this Precept may be held meral; notwithſtanding the abrogation of the
+<pb n="10" facs="tcp:65437:9"/>
+Circumſtance of time, I have already ſhewed; Nor is this the only precept which may thus be diſtinguiſhed upon; for certainly it is Moral duty to relieve the poor and the ſtranger, yet this may be done without letting the corners of our fields be un<g ref="char:EOLhyphen"/>mown, our Grapes ungleaned, or the paying of Tythes; all which was once aſſigned by the Law of God as the portion of the poor and ſtranger. Add hereunto (as before obſerved) the maintenance of ſuch as miniſter the Word, which is moral duty; yet the ſet portion of Tythes, or the tenth part of every mans increaſe, once due by the law of God, are not neceſſarily to be paid, for which I am of opinion as much may be ſaid, as for the obſervation of the Seventh-day; for the tenth part of our Sub<g ref="char:EOLhyphen"/>ſtance ſeems to be as equal a proportion as the ſeventh part of our time; the ends for both are equally remaining, the law for both equally obliging; but I will not inſiſt further, being well ſatisfi<g ref="char:EOLhyphen"/>ed: Chriſtians are made free from theſe impoſitions, and yet ſtand engaged to do their duties, both towards God, the Poor, and his Miniſters.</p>
+            </div>
+            <div n="5" type="reason">
+               <head>The fifth Reaſon.</head>
+               <p>The Seventh-day-Sabbath was a ſign of their Sanctification to whom it was given, therefore of a Ceremonial nature and not given to all men. <hi>Exod.</hi> 31. 13. <hi>Ezek.</hi> 20. 12. <hi>Thus ſaith the Lord, ſpeak thou alſo to the Children of</hi> Iſrael, <hi>ſaying, verily my Sabbaths ye ſhall keep, for it is a ſign between me and you, through<g ref="char:EOLhyphen"/>out your generations, that you may know that I am the Lord that do ſanctifie you.</hi> Hence it appears that as other holy (or if I may ſo ſpeak) Sacramental conſtitutions are peculiar to the Church, and not delivered to all men, even ſo the Sabbath was peculiar to the Church of the <hi>Jews</hi> [as for the ſtranger among them, <hi>&amp;c.</hi> their reſting was no more a Sabbathizing, than the reſting of the Cattle, and ſo not to be accounted a divine ſolemnization of the Sabbath] for how could it be a ſign that the Lord did ſancti<g ref="char:EOLhyphen"/>fie the world in general, who had no part in ſuch priviledges, they being without God, without hope, and ſtrangers and ali<g ref="char:EOLhyphen"/>ens from the Covenants of Promiſes, <hi>Epheſ.</hi> 2. 12.</p>
+               <p>Again, from this form of ſpeech, <hi>It ſhall be a ſign, or it is a
+<pb n="11" facs="tcp:65437:9"/>
+ſign.</hi> It appears that the Sabbath is Ceremonial, becauſe ſuch Laws as are Moral and imprinted in the heart of man, are no where called ſigns, that I know of, but this kinde of ſpeech (when uſed with reſpect to Laws) is appropriate to ſuch as were temporary, and ordained upon ſome ſpecial occaſion, for the Church as ſuch, and hence Circumciſion is called a ſign or token of the Covenant, <hi>Rom.</hi> 4. <hi>Gen.</hi> 17.</p>
+               <p>Now let us conſider wherein the Sabbath was a ſign, that ſo we may the better perceive to whom it was given. Firſt then, it was a ſign of <hi>Iſraels</hi> cleanſing from ſin, to which, <hi>Exod.</hi> 31. 13. <hi>Ezek.</hi> 20. 12. do well agree, ſhewing that the Sabbath was a ſign that <hi>Iſrael</hi> might know that the Lord did ſanctifie them, here it is plainly of a Sacramental uſe and appropriate to the Church; it is a ſign between me and you, <hi>i. e.</hi> between me as your God, and you as my Church.</p>
+               <p>Secondly, The Sabbath was a ſign of remembrance, that <hi>Iſra<g ref="char:EOLhyphen"/>el</hi> ſhould remember they were once bondmen in <hi>Aegypt,</hi> where convenient reſt was denied them, and that now they ſhould let their ſervants reſt as well as themſelves, <hi>Deut.</hi> 5. 15.</p>
+               <p>Thirdly, It was a ſign that the true ſabbathizing, is to take up our Reſt by faith in Chriſt, <hi>Heb.</hi> 4. As for the thouſand years Reſt at Chriſts ſecond coming, and eternal Reſt in Heaven, of which ſome would have the Sabbath to be a ſign or Type, I will not inſiſt upon them, becauſe I have not yet met with clear Texts to ſatisfie me therein. But admit the Sabbath for a ſign in all theſe reſpects, yet will it not prejudice, but rather ſtrengthen us, in ſaying, the Seaventh-days-ſabbath was Ceremonial, and par<g ref="char:EOLhyphen"/>ticular, in reſpect of the perſons to whom it was given.</p>
+               <p>For firſt, The Sabbath could not be a ſign to all men, or the World univerſally that They were ſanctified, becauſe in the time of the Law the whole World, except the Jewiſh Nation was counted unclean, that is to ſay, unſanctified.</p>
+               <p>Secondly, Neither could the Sabbath be a ſign (literally, or ſpiritually) to the whole World, of their deliverance out of Ae<g ref="char:EOLhyphen"/>gyptian bondage, for literally the whole World was never in <hi>Aegypt,</hi> and ſpiritually they are not yet delivered from the bon<g ref="char:EOLhyphen"/>dage thereof, 1 <hi>John</hi> 5. 19.</p>
+               <p>Thirdly, The Sabbath could not be a ſign to the whole World of their entring into reſt by Faith in Chriſt, becauſe, as ſuch they are, and ever were in unbelief.</p>
+               <p>
+                  <pb n="12" facs="tcp:65437:10"/>
+Fourthly, Neither could the Sabbath be a ſign to the whole World, in either of the two laſt reſpects, ſith as ſuch, they have no part in the firſt reſurrection, nor yet in that eternal Inheritance of the Saints in Light. From theſe Conſiderations it may ap<g ref="char:EOLhyphen"/>pear, that the Sabbath was never given as a ſign to all men, and thence I conclude it was never given to all men. For the more ready diſcerning the meaning of this Ground or Reaſon, I will di<g ref="char:EOLhyphen"/>geſt it into this Syllogiſm.</p>
+               <p>Thoſe to whom the Sabbath was given, to them 'twas a ſign of their preſent ſanctification, But it was no ſign of the preſent ſanctification of the whole World. Therefore it was never given to the whole World; therefore of no mo<g ref="char:EOLhyphen"/>ral conſideration: therefore Ceremonial.</p>
+            </div>
+            <div n="6" type="reason">
+               <head>The ſixth Reaſon.</head>
+               <p>The Feſtivals of the <hi>Iews,</hi> was Cerimonial, and therefore the Seventh-day-Sabbath was Ceremonial.</p>
+               <p>Thus ſaith the Lord, <hi>The Feasts of the Lord which ye ſhall pro<g ref="char:EOLhyphen"/>claim to be holy convocations, even theſe are my feaſts: Six daies ſhall work be done, but the ſeventh day is the Sabbath of rest, an holy convocation, ye ſhall do no work therein; it is the Sabbath of the Lord in all your dwellings—The fourteenth day of the first month is the Lords Paſſeover, and on the fifteenth day of the ſame month is the feaſt of unleavened-bread—in the firſt day ye ſhall have an holy convocation,</hi> &amp;c.</p>
+               <p>We learn from theſe Scriptures, that as the Paſſeover, ſo the Seventh-day-Sabbath was a feaſt unto the <hi>Jews,</hi> and equally called the feaſt of the Lord, and therefore reaſonably to be con<g ref="char:EOLhyphen"/>cluded, to be one and the ſame Ceremonial conſideration, and by conſequence to vaniſh, or terminate with them.</p>
+               <p>If this be denied, let us ſee what will follow; we muſt then hold that ſome of the Jewiſh feaſts were Moral and perpetual, and ſo obligatory to ſuch as had not the Law, as well as to thoſe that had it: Or elſe, that the Sabbath was delivered as a feaſt to the <hi>Jews,</hi> but not ſo to the reſt of mankinde; but the firſt of th<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe can never be proved (as I conceive) and if the latter be accepted, it muſt be proved, which I take to be a very difficult undertaking; and if it could be proved, it will confirm what we have ſaid (at leaſt in part) becauſe it will evince the Seventh-day-Sabbath to be Ceremonial, to that part of Mankinde to
+<pb n="13" facs="tcp:65437:10"/>
+whom it was delivered as a Feaſt. And here it may well be en<g ref="char:EOLhyphen"/>quired, from what ground men do now pretend to keep the Se<g ref="char:EOLhyphen"/>venth-day-Sabbath according to the Law of <hi>Moſes,</hi> and yet keep it not as a Feaſt of the Lord in all their dwellings? And be<g ref="char:EOLhyphen"/>cauſe we ſee here the Seventh-day-Sabbath reckoned with the Ceremonial Feaſts of the Jews, it will not be impertinent here to add a parralel between the Seventh-day-Sabbath, and the yearly Sabbath, as alſo the Sabbath of years, that ſo we may the better diſcern it to be of a Ceremonial conſideration.</p>
+               <p>To begin with the Inſtitution; Moſt certain it is, that no mention is made in the book of God, of the <hi>obſervation</hi> of any of theſe Sabbaths, neither <hi>weekly,</hi> nor <hi>annual,</hi> &amp;c. until the ſeed of <hi>Abraham</hi> became a Nation, to whom the Law of all the Sab<g ref="char:EOLhyphen"/>baths was given by <hi>Moſes;</hi> neither is the Seventh-day-Sabbath the firſt in obſervation for the Paſſeover (in which were Sab<g ref="char:EOLhyphen"/>baths of reſt) was in uſe before it, and the reſt followed <note n="*" place="margin">As for that paſſage <hi>Gen.</hi> 2. which ſome conceive to en<g ref="char:EOLhyphen"/>force the inſti<g ref="char:EOLhyphen"/>tution of the Seventh-day-Sabbath from the begin<g ref="char:EOLhyphen"/>ning: and others conceive it to ſpeak of the Sabbath only by a prolepſis, or anticipation; I ſhall omit at this time, being ſatisfied firſt, that if it were even then inſtituted (which I do not grant) yet would it not neceſſarily binde all the world to the perpetual ſolemnity of the ſeventh day of every week; nor in the leaſt infer the <hi>time</hi> to be of a Moral conſideration, ſee<g ref="char:EOLhyphen"/>ing the Almighty was at liberty to give either a poſitive, or Ceremonial Law at that time, which yet might not equally extend to all perſons, in all times and places, as indeed he ſeems to have done, in the Law concerning the forbidden fruit. But ſecondly, I am ſatisfied that thoſe who take that mention of the Sabbath <hi>Gen.</hi> 2. by a prolepſis are not without conſidera<g ref="char:EOLhyphen"/>ble grounds for ſo doing, the Scriptures in many other caſes neceſſarily requiring, as might be ſhewed, were it my buſineſs to proſecute the argument.</note> it.</p>
+               <p>The ſecond Parallel is in the time of the continuance of theſe Sabbaths, the Seventh-day-Sabbath having nothing in that re<g ref="char:EOLhyphen"/>ſpect above the reſt, as will be ſeen by the ſcriptures following.</p>
+               <list>
+                  <item>For the continuance of the weekly Sabbath, ſee <hi>Exod.</hi> 31. 16.</item>
+                  <item>For the continuance of the Paſchal Sabbath, ſee <hi>Exod.</hi> 12. 14.</item>
+                  <item>For the continuance of Penticoſt Sabbath, ſee <hi>Lev.</hi> 23. 21.</item>
+                  <item>For the continuance of the Expiation Sabbath, ſee <hi>Lev.</hi> 23. 31</item>
+                  <item>For the continuance of the Feaſt of Tabernacles Sabbath, ſee <hi>Lev.</hi> 23. 41.</item>
+               </list>
+               <p>The third parallel is in the Service of theſe Sabbaths, and that I have ſhewed already, wherein it appears, that the Services of the annual Sabbaths was not onely greater than thoſe of the weekly, but to be done as exactly; yea, though they fell upon the ſeventh day; <hi>Numb.</hi> 28, 29. chap.</p>
+               <p>
+                  <pb n="14" facs="tcp:65437:11"/>
+The fourth Parallel is, of forbearing Labour, which was as ſtrictly to be obſerved on the yearly, as on the weekly Sabbaths, <hi>Exod.</hi> 31. 14. compared with <hi>Lev.</hi> 23. 30.</p>
+               <p>The fifth Parallel, of the time to begin to keep the Sabbath,' which is ſuppoſed to be the evening before; but in this, the an<g ref="char:EOLhyphen"/>nual Sabbaths are not onely equal to the weekly, but indeed the pattern; for of one of them onely it is ſaid, <hi>from Even to Even ſhall you ſanctifie your Sabbath,</hi> Lev. 23. 32.</p>
+               <p>The ſixth Parallel is of the Penalties, which was death, and was as well the penalty for breach of the yearly Sabbaths, as for breach of the ſeventh-day-Sabbath <hi>Lev.</hi> 23. 30. <note n="*" place="margin">Note that theſe words in the Texts <hi>[that ſoul ſhall be cut off from his peo<g ref="char:EOLhyphen"/>ple,</hi> is meant of the Magiſtrates executing the Law for breach of the Seventh-day-Sabbath, and then why not in the other caſes alſo?</note> And although it be not expreſt, that the Magiſtrate muſt execute the penalty for breach of the yearly Sabbath, yet it may be gathered, that hee muſt do it. See and compare theſe Scriptures, <hi>Exod.</hi> 30. 28. <note n="*" place="margin">Note that theſe words in the Texts <hi>[that ſoul ſhall be cut off from his peo<g ref="char:EOLhyphen"/>ple,</hi> is meant of the Magiſtrates executing the Law for breach of the Seventh-day-Sabbath, and then why not in the other caſes alſo?</note> and <hi>Exod.</hi> 31. 14. <note n="*" place="margin">Note that theſe words in the Texts <hi>[that ſoul ſhall be cut off from his peo<g ref="char:EOLhyphen"/>ple,</hi> is meant of the Magiſtrates executing the Law for breach of the Seventh-day-Sabbath, and then why not in the other caſes alſo?</note> And this may ſerve as an anſwer to ſome, when they did us ſhew that the penalty of death was ever to be inflicted upon the breakers of any Law, but the moral Law; Nor is this the onely inſtance, for the holy Perſume might not be i<g ref="char:EOLhyphen"/>mitated under pain of Death, <hi>Exod.</hi> 30. 28. Neither might man or beaſt ſo much as touch the holy Mount, but be puniſhed by ſtoning, or by being thruſt through with a Dart, <hi>Exod.</hi> 19. 23. compared with 12, and 13. verſes of the ſame chapter.</p>
+               <p>The ſeventh and laſt Parallel ſhall be of the Sabbath of years; in which we may obſerve, that at the giving thereof to <hi>Iſrael,</hi> the Lord gave them the bread of three years, the year before the Sabbathical year, as he gave them the bread of two daies, before the Sabbath-day.</p>
+               <p>Now let it be conſidered, what ſollid Reaſon there remains for the continuation of the ſeventh-day-Sabbath, more than for the yearly Sabbaths, and Sabbath of years, ſith there is no more expreſs prohibition of the one, than the other, in the Scriptures, (except in <hi>Col.</hi> 2. 16. Where in truth, the ſeventh-day-Sabbath is rather more expreſſly prohibited than the reſt) and ſeeing we do as conſtantly enjoy the time of firſt fruits, in-gathering, <hi>&amp;c.</hi> as the Jews did, wherein they held holy Sabbathiſms, to rejoyce before the Lord, for all the good things wherewith he bleſſed them; it might very juſtly be enquired of ſome, why they obſerve not theſe ſolemnities, together with the ſeventh-day?</p>
+            </div>
+            <div n="7" type="reason">
+               <pb n="15" facs="tcp:65437:11"/>
+               <head>The ſeventh Reaſon.</head>
+               <p>The Obſervation of the ſeventh-day-Sabbath, according to the Law of <hi>Moſes,</hi> cannot ſtand without the Execution of the Pe<g ref="char:EOLhyphen"/>nalty of death upon ſuch as break it: Were it not ſo, it ſhould not be the religious Obſervation of the day which is in it ſelf a thing tollerable, and about which Chriſtians need not judge one another; I ſay, were it onely this, it ſhould not offend me. But now, theſe which ſtand for the obſervation of the ſeventh-day, ac<g ref="char:EOLhyphen"/>cording to the Law of <hi>Moſes,</hi> do alſo ſtand for the penalty of death, to be inflicted upon ſuch as they judge wilful breakers thereof; confeſſing, even in their printed Books, that the reaſon why they do not execute that penalty, is, <hi>Becauſe they are no Ma<g ref="char:EOLhyphen"/>giſtrates;</hi> 
+                  <note place="margin">
+                     <hi>Stennet</hi> againſt <hi>Ruſſel.</hi>
+                  </note> So then, it ſeems ſuch men want but opportunity; and doubtleſs, by how much men are the more zealous, by ſo much they would drive the more furiouſly; and indeed <hi>S. J.</hi> doth pe<g ref="char:EOLhyphen"/>remptorily conclude, that ſuch their proceedings (if Magiſtrates) would be no more an act of Perſecution, than killing a Murther<g ref="char:EOLhyphen"/>er in our daies by the hand of a Magiſtrate, can be termed Perſe<g ref="char:EOLhyphen"/>cution—We ſee then, there is cauſe to fay (as ſometimes we have ſaid) that this preſent Sabbath-Doctrine doth bring in with it a ſtate of Perſecution. In which we have deliverd no Fa<g ref="char:EOLhyphen"/>ble of our own, for beſide the light of reaſon, by which we are in ſome meaſure able to judge of the conſequence of mens tenents, mine ears are mine evidence, that putting the caſe thoſe men were Magiſtrates, we muſt either ſubmit to their government concerning the Sabbath, <hi>&amp;c.</hi> or elſe ſeek a place, where we might enjoy our liberty; to which as formerly, even ſo now I anſwer, that is much what the ſame liberty which is granted us now.</p>
+               <p>It is a maxime to be wel heeded, that <hi>Truth hath no bad conſe<g ref="char:EOLhyphen"/>quences:</hi> but admit once this Sabbath Principle in the penal part, and then we muſt admit of all the penalties once due for breach of the three precedent Commands, and then muſt all Blaſphemers and Idolaters be deſtroyed, their Cities and ſub<g ref="char:EOLhyphen"/>ſtance conſumed by fire, <hi>Deut.</hi> 13. and then the lives of the great<g ref="char:EOLhyphen"/>eſt part of men, muſt be aſcribed to the ſin of the Magiſtrates. But would this proceeding be like a Goſpel diſpenſation, where<g ref="char:EOLhyphen"/>in God is ſuffering the contradiction of ſinners againſt himſelf, and waits if peradventure his long-ſuffering may lead them to repentance, as it did <hi>Saul</hi> who was once a Blaſphemer, <hi>&amp;c.</hi> In
+<pb n="16" facs="tcp:65437:12"/>
+whom God ſhewed forth a pattern of his patience to thoſe who ſhould live after. Wherefore fith the Execution of the ſaid penal<g ref="char:EOLhyphen"/>ties are inconſiſtent with Gods clemency in Chriſt, in this day of his Goſpel patience; we therefore dare not ſubſcribe to the Doctrine of the preſent Sabbath-keepers concerning their Sab<g ref="char:EOLhyphen"/>bath-obſervation.</p>
+               <p>
+                  <hi>The ſubstance of S. J. his Anſwer to this Reaſon, is this.</hi>
+               </p>
+               <p>That we are like thoſe that run into the fire to keep from burn<g ref="char:EOLhyphen"/>ing; into the water to keep from drowning: to kill becauſe we muſt be killed for our pains: to approve of Man-ſtealing becauſe death is the due puniſhment for that ſin; and here he laies us un<g ref="char:EOLhyphen"/>der non-ſenſe, fooliſhneſs, <hi>&amp;c.</hi> together with theſe abſurdities.</p>
+               <p>To which I reply, that the diſ-ingenuity of theſe retortings will appear if it be conſidered. Firſt, that we diſtinguiſh of commands according to the time or diſpenſation wherein they were given, and we ſay, perſons may now be under the authority of a Precept formerly attended with the penalty of death, and yet not now at<g ref="char:EOLhyphen"/>tended therewith; For example, God commands that his name be not taken in vain, and aſſigned the puniſhment of death to them that did Propheſie Lies in his Name; But will any man ſay, that all falſe Prophets ought now to be put to death? Let them ſay ſo that can prove it. Again, that kinde of Fornication mentioned in 1 <hi>Cor.</hi> 5. 1. was puniſhable by death, <hi>Lev.</hi> 20 11. We are un<g ref="char:EOLhyphen"/>der the power of the Precept which forbids that ſin, and yet not under that penalty, 2 <hi>Cor.</hi> 2. 6, 7. And now concerning the fourth Precept, we ſay we are under the moral part thereof, and yet we ſay mens not ſetting ſufficient time apart to ſerve God, is not now puniſhable by death. It doth not therefore follow, that we break this Law to avoid the penalty; But we ſay, firſt, we are not bound to the Cerimonial part thereof, and therefore we obſerve it not; Secondly, we deny your obſervation of it, becauſe you urge a ne<g ref="char:EOLhyphen"/>ceſſity of the penalty.</p>
+               <p>And whereas it is alledged, that our plea will as well conclude againſt the ſixth Precept, as againſt the obſervation of the ſe<g ref="char:EOLhyphen"/>venth-day. I anſwer, not ſo, for the penalty of death to him that commits murther, is diſcernable to be due by the Law of Reaſon, and was exacted by Gods appointment long before the Law of the Sabbath-day was given. And albeit according to our reaſoning (but yet by our Saviours tolleration) ſome of the children of the
+<pb n="17" facs="tcp:65437:12"/>
+wicked one muſt be let alone in the field, to wit, the world, and that till Harveſt, even the end of the world; yet this can onely be underſtood of thoſe whoſe errors happen in matters of Religion; for as touching Murtherers, <hi>&amp;c.</hi> they muſt either be taken away, or humane ſociety would fail. Spiritual wickedneſs then is (for ought I ſee) onely puniſhable by the Word of God, and cenſures of the Church whilſt here, by God himſelf hereafter; corporal ſins are puniſhable by Magiſtrates here, though the ſinner be never ſo repentant, by God himſelf hereafter alſo if he repent not.</p>
+               <p>Finally, I offer it to the conſideration of ſober men, whether it would be Goſpel like, for Believers in Chriſt to compel their Families to celebrate the Sabbath, ſuch of them eſpecially as are of Faith and Religion contradiſtinct to them in that point, and yet behold, this muſt they do (according to <hi>Moſes)</hi> for the Law of the Sabbath requires the Maſter of the houſe to order his Chil<g ref="char:EOLhyphen"/>dren and Servants in point of Sabbathizing.</p>
+               <div type="objection">
+                  <head>An Objection anſwered.</head>
+                  <p>The moſt important Objection here to be removed, is this; <hi>If Chriſtians be not bound to obſerve the Seventh-day, how can any be blamed, for neglecting any time whatſoever agreed upon by the Church, for the worſhip of God?</hi>
+                  </p>
+               </div>
+               <div type="answer">
+                  <p>
+                     <hi>Anſw.</hi> This Objection is the beſt anſwered by conſidering ſome caſes like the caſe propounded. As firſt, God appointed a certain place where to be wor<g ref="char:EOLhyphen"/>ſhipped, as well as a time when, and required that thrice every year his people ſhould appear before him in the place which he ſhould chuſe, <hi>&amp;c.</hi> Now we know there is as little poſſibility to congregate Gods people without place, as without time to that purpoſe, and ſuch as will cavil at the time agreed on by the Church, may as well cavil at the place agreed on by the Church; for how can I bind any man to come to my houſe, or to permit me to come to his, unleſs I acknowledge the power of the Churches agreement to be ſufficient for both?</p>
+                  <p>Thus then this Objection will inforce a particular and conſtant place, as wel as a particular and conſtant time; as then he cannot eſcape juſt reproof, who re<g ref="char:EOLhyphen"/>gardeth not the place which the Church by mutual conſent aſligneth for Gods Worſhip; ſo neither can he eſcape, who regardeth not the time in like manner aſſigned to that end and purpoſe.</p>
+                  <p>Secondly, it's Chriſtians duty to celebrate the memorial of the paſſion of Chriſt, with bread and wine, and to wait upon-God in faſting and prayer. But if I ask when, and where theſe things muſt be done, it would prove as difficult to anſwer, as the queſtion propounded.</p>
+                  <p>Thirdly, there is much to be ſaid for the firſt day of the week, as having been religiouſly obſerved by the Apoſtles and primitive Churches, both from holy Scripture and ſome other authorities worth our conſideration: But for my part I do not think any ſet time was ſo impoſed, but that the Church if occaſion ſhould preſs, might yet without ſin, obſerve another time.</p>
+                  <p>
+                     <hi>Brethren, <gap reason="illegible: faint" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e are called unto Liberty, only uſe not your Liberty as an occaſi<g ref="char:EOLhyphen"/>on to the Fleſh—Stand faſt therefore in the Liberty wherewith Chriſt hath made us free, and be not intangled again with the yoke of Bondage.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:65437:13"/>
+            <head>The POSTSCRIPT.</head>
+            <p>SHewing the opinion of ſome of the <hi>Jewiſh</hi> Rabbins concerning the Sab<g ref="char:EOLhyphen"/>bath-day. And certain Antient Chriſtians concerning the Sabbath-day and the Firſt day.</p>
+            <div type="part">
+               <head>
+                  <hi>The</hi> Rabbins.</head>
+               <p>We read ſaith <hi>Pet. Galatinus,</hi> on the <hi>Jews</hi> gloſs upon theſe words, <hi>The Lord hath given you the Sabbath,</hi> What means theſe words, <hi>The Lord hath given</hi> 
+                  <note place="margin">
+                     <hi>Ex Heylin</hi> Hiſt. de Sabbath.</note> 
+                  <hi>you?</hi> Becauſe it was given to the <hi>Jews,</hi> and not unto the <hi>Gentiles</hi>
+               </p>
+               <p>
+                  <hi>Rabbi Johanan</hi> ſaith, that whatſoever Statute God gave <hi>Iſrael,</hi> he gave it to them publickly, except the Sabbath, and that was given to them in ſecret, ac<g ref="char:EOLhyphen"/>cording to that! of <hi>Exodus, it is a ſign between me and the children of</hi> Iſrael.</p>
+               <p>
+                  <hi>Joſephus</hi> in his book of Antiquities, and Wars of the <hi>Jews,</hi> calls the Sabbath <note place="margin">Antiq l. 14 c. 18 <hi>de Bello,</hi> l. 2. c. 16</note> a National and Local cuſtome; a Law peculiar to that people.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>The Antient Chriſtians of the</hi> 1, 2, 3, 4. <hi>Centuries.</hi>
+               </head>
+               <p>
+                  <hi>Juſtin Martyr</hi> ſaith, none of the righteous men, and ſuch as walked with <note place="margin">
+                     <hi>Juſtin.</hi> in Dyal. cum Trypho.</note> God, were either Circumciſed or kept the Sabbath, until the ſeveral times of <hi>Abraham</hi> and <hi>Moſes.</hi>
+               </p>
+               <p>
+                  <hi>Ireneus</hi> ſaith, that Circumciſion and the Sabbath were both given for ſigns, <note place="margin">
+                     <hi>Iren.</hi> adverſ. <hi>Hereſ.</hi> l. 4. c. 30</note> and that all the multitude of the faithful before <hi>Abraham,</hi> were juſtified without the one <hi>(i. e.</hi> Circumciſion) and that the Patriarks, which preceded <hi>Moſes,</hi> were juſtified without the other.</p>
+               <p>
+                  <hi>Tertullian</hi> requires the <hi>Jews</hi> to prove (if they can) that the Fathers of for<g ref="char:EOLhyphen"/>mer <note place="margin">
+                     <hi>Tertul.</hi> adverſ. <hi>Judaeos.</hi>
+                  </note> times [meaning before the time of <hi>Abraham]</hi> were Circumciſed, or kept the Sabbath, or that thereby they obtained to be called (or accounted) the friends of God.</p>
+               <p>
+                  <hi>Euſebius</hi> ſaith, The Religion of the Patriarks of old, was like the Chriſtian, <note place="margin">
+                     <hi>Euſcb.</hi> Hiſt. l. 1. c. 4.</note> and he proves it thus, They were not Circumciſed, no more are we; They kept not the Sabbath, no more do we; They were not bound to abſtain from ſundry kindes of meats, no more are we.</p>
+               <p>And elſewhere he ſaith, <hi>Melcheſideck</hi> was a Prieſt of the moſt high God, neither being Circumciſed, nor annointed with the holy Oyle, <hi>&amp;c.</hi> no not ſo much as knowing that there was a Sabbath, <hi>&amp;c.</hi> and living moſt agreeable to the Goſpel.</p>
+            </div>
+            <div type="part">
+               <head>Concerning the First day.</head>
+               <p>
+                  <hi>Ignatius</hi> was of this minde, that both the Seventh and Firſt dayes was to be obſerved; theſe are his words.—After we have thus kept the Sabbath, <note place="margin">
+                     <hi>Ignat.</hi> l. 8.</note> let every one that loveth Chriſt, keep the Lords day Feſtival; the Reſurrecti<g ref="char:EOLhyphen"/>on day; the Queen and Empreſs of all dayes; wherein our life was raiſed again, and death was overcome by our Lord and Saviour.</p>
+               <p>
+                  <hi>Juſtin Martyr</hi> ſaith, upon the Sunday all of us aſſemble in the Congregati<g ref="char:EOLhyphen"/>on, as being the Firſt day wherein God ſeparated the Light from the Darkneſs, <note place="margin">Juſt. Mart.</note> Created the World, and Jeſus Chriſt our Saviour roſe again from the Dead.</p>
+               <p>
+                  <hi>Augustine</hi> ſaith, The Lords day was made known to us Chriſtians by the <note place="margin">
+                     <hi>Aug.</hi> Ep. 119.</note> Reſurrection, and from that began to be accounted holy.</p>
+               <l>Read this, yet know, all th' Antients did not ſay,</l>
+               <l>One ſelf ſame thing 'bout th' First or Seventh day.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
